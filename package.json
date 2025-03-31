@@ -1,4 +1,7 @@
 {
   "name": "Tweening",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "A small library to allow for chained tweening operations, similiar to how godot allows tweening.",
+  "displayName": "SimpleTween",
+  "unity": "2021.0"
 }
